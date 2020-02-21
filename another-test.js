@@ -1,1 +1,5 @@
-console.log('kosher bacon')
+console.log('kosher bacon');
+
+const myNewFunction = ()=> {
+    //do something
+}
